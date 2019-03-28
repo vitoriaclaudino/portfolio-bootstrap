@@ -1,0 +1,31 @@
+.container {
+    /* coluna lado a lado */
+    padding: 30px;
+
+}
+
+.coluna {
+    width: 50%;
+    /* largura da coluna */
+}
+
+
+.display-1 {
+    font-size: 45px;
+    }
+
+.display-4 {
+    font-size: 45px;
+}
+.infos{
+    display: flex;
+    padding: 30px;
+}
+#final{
+    margin: 15px;
+    float: left;
+}
+.exps{
+    /* float: left; */
+    margin: 30px;
+}
